@@ -10,6 +10,8 @@ MK   = Visualisasi Data dan Informasi
 
 Dosen Pengampu = Ahmad Luky Ramdani, S.Kom., M.Kom
 
+____________________________________________________________________
+
 
 
 
